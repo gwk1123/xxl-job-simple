@@ -116,7 +116,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <version>2.3.7.RELEASE</version>
                 <configuration>
-                    <mainClass>com.xxl.job.XxlJobSimpleApplication</mainClass>
+                    <mainClass>com.xxl.job.admin.XxlJobSimpleApplication</mainClass>
                 </configuration>
                 <executions>
                     <execution>

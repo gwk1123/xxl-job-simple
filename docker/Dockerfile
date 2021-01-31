@@ -1,4 +1,4 @@
-FROM openjdk:8
+FROM openjdk:8-jre-slim
 VOLUME /date/xxljob
 ADD xxl-job-simple-0.0.1-SNAPSHOT.jar xxl-job-simple.jar
 EXPOSE 8091
